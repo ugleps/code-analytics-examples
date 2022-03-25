@@ -13,4 +13,4 @@ pool:
 steps:
 - task: QodanaScan@1
   inputs:
-    args: '--project-dir,php'
+    args: '--project-dir,js'
